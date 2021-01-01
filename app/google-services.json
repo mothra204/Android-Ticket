@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "470429445818",
+    "firebase_url": "https://android-ticket-default-rtdb.firebaseio.com",
+    "project_id": "android-ticket",
+    "storage_bucket": "android-ticket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470429445818:android:124f03826b0ec532061c83",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470429445818-apeu5n951troucqf6kuc3edcv692u3f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG7IJxs6nj-LX6zWWwI04ZsPbnfpL-sA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470429445818-apeu5n951troucqf6kuc3edcv692u3f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
